@@ -6,3 +6,4 @@ We can change the value of K(no of colours) according to our need
 
 For example:- 
 
+![](image1.png)
